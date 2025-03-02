@@ -1,4 +1,4 @@
-# Sales_Return_Investigation_Project# 
+# Sales_Return_Investigation_Project
 **Project Overview:**  
 This project analyzes sales returns data from a retailer offering various products across the Furniture, Office Supplies, and Technology categories. The business is dealing with a high rate of returns, and the goal is to identify the main factors contributing to these returns.
 
